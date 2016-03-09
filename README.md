@@ -1,6 +1,6 @@
 # Dismath_BonusProject_LanzJacob
 ###Screenshot of Designer
-![Designer] (https://raw.githubusercontent.com/lanzjacob/Dismath_BonusProject_LanzJacob/master/Designer.jpg)
+![Designer1] (https://raw.githubusercontent.com/lanzjacob/Dismath_BonusProject_LanzJacob/master/Designer1.jpg)
 ###Screenshots of Blocks
 ![Blocks1] (https://raw.githubusercontent.com/lanzjacob/Dismath_BonusProject_LanzJacob/master/Blocks1.jpg)
 ######for Linear Search
